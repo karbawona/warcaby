@@ -7,7 +7,7 @@
 //
 
 /*
- Klasa będąca "podsatawą" dla klasy Gracz, zawiera wszystkie potrzebne metody i zmiennie do utworzenia pojedynczego pionka.
+ Klasa będąca "podstawą" dla klasy Gracz, zawiera wszystkie potrzebne metody i zmiennie do utworzenia pojedynczego pionka.
  */
 
 #ifndef Pionek_hpp
